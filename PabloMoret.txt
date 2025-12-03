@@ -3,3 +3,6 @@ Repo2
 Repo3
 Framework1\nFramework2\nFramework3
 NestJS\nDjango\nAngular
+Java
+Python
+SQL
